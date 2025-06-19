@@ -1,4 +1,4 @@
-﻿# LDTS_T1204 - Alien Free-Way
+﻿# Alien Free-Way
 
 ## Game Description
 
@@ -16,7 +16,7 @@ The game features a static background complemented by an immersive soundtrack th
 
 Inspired by _Space Impact_, this version introduces a deeper connection between the player and the gameplay, emphasizing precise movement, strategic purchases, and quick decisions to ensure survival on the road ahead.
 
-This project was developed by *Afonso Pereira* (*up202305652*@fe.up.pt), *João Brás* (*up201001508*@fe.up.pt) and *Rodrigo Leite* (*up202205322*@fe.up.pt).
+This project was developed by *Afonso Pereira* (*afonsomiguelap*@gmail.com), *João Brás* (*up201001508*@fe.up.pt) and *Rodrigo Leite* (*up202205322*@fe.up.pt).
 
 For a more detailed version of this description click [here](./docs/README.md).
 
@@ -75,6 +75,13 @@ The following screenshots illustrate the general look of our game, as well as th
 <p align="center">   
   <b><i>Fig 7. Buying and using an Extra Life</i></b>  
 </p>
+
+## HOW TO PLAY
+
+1) Open a terminal and launch the game with ./gradlew run
+2) Select option "Play" on the menu
+3) While playing, if you press "ESC" on your keyboard, you can access the shop or restart
+4) Enjoy the Ride!
 
 ## UML Schema
 
